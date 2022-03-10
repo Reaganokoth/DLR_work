@@ -1,0 +1,259 @@
+Year,Month,Country,Location,T_area (ha)
+2019,Mar,SUDAN,"[('near', 'Karora')]",25
+2019,Mar,ERITREA,"[('between', 'Massawa')]",7115
+2019,Mar,EGYPT,"[('between', 'Abu Ramad'), ('near', 'Berenice'), ('near', 'Lake Nasser'), ('near', 'the Libya')]",4021
+2019,Mar,ARABIA,"[('near', 'Umm Lajj'), ('between', 'Lith'), ('near', 'Thuwal')]",45705
+2019,Mar,IRAN,"[('near', 'Minab'), ('near', 'Bushehr')]",2760
+2019,Mar,PAKISTAN,"[('between', 'Uthal')]",345
+2019,Jul,ALGERIA,"[('between', 'Timimoun'), ('near', 'agric')]",115
+2019,Jul,SUDAN,"[('between', 'S uakin'), ('between', 'Khartoum'), ('between', 'El Obeid'), ('near', 'Abu')]",1180
+2019,Jul,EGYPT,"[('near', 'farms')]",4
+2019,Jul,ARABIA,"[('near', 'Wadi Dawasir'), ('between', 'Riyadh'), ('near', 'Qaryat Al')]",1300
+2019,Jul,YEMEN,location missing,4605
+2019,Jul,OMAN,"[('near', 'Sinaw'), ('near', 'Sur')]",25
+2019,Jul,PAKISTAN,"[('near', 'Nushki'), ('near', 'Khuzdar'), ('near', 'Islamgarh')]",7666
+2019,Jul,INDIA,location missing,26764
+2020,Sep,SUDAN,"[('near', 'Haiya'), ('near', 'El Fasher'), ('near', 'Sodiri')]",9900
+2020,Sep,ERITREA,"[('near', 'Asmara'), ('near', 'Afabet'), ('near', 'Naro'), ('between', 'Assab'), ('near', 'Kerkebet'), ('near', 'Mehimet')]",5013
+2020,Sep,ETHIOPIA,"[('between', 'Jijiga'), ('near', 'As')]",57457
+2020,Sep,SOMALIA,"[('between', 'Hargeisa'), ('near', 'Erigavo'), ('between', 'Iskushuban'), ('near', 'Boroma'), ('near', 'Dusa Mareb')]",17477
+2020,Sep,KENYA,location missing,2100
+2020,Sep,ARABIA,"[('near', 'Jizan'), ('between', 'Abha and'), ('near', 'Lith where')]",1355
+2020,Sep,YEMEN,"[('near', 'Al Hazm'), ('near', 'Marib'), ('near', 'Sayun'), ('near', 'Zinjibar'), ('near', 'Al Hazm'), ('between', 'Al Zuhrah')]",5828
+2019,Apr,MAURITANIA,location missing,88
+2019,Apr,EGYPT,"[('between', 'Abu Ramad'), ('near', 'Abu Ramad'), ('between', 'Berenice'), ('near', 'Lake Nasser')]",7470
+2019,Apr,ARABIA,"[('between', 'Bader'), ('near', 'L'), ('between', 'Riyadh'), ('between', 'Gassim and'), ('between', 'Wadi Dawasir'), ('near', 'Najran')]",27812
+2019,Apr,IRAN,"[('between', 'Bander'), ('between', 'Kahnuj'), ('near', 'Nehbandan'), ('between', 'J ask'), ('near', 'Bushehr'), ('near', 'Minab')]",86570
+2019,Apr,PAKISTAN,"[('near', 'Turbat'), ('between', 'Pasni and'), ('near', 'Uthal'), ('near', 'Ormara')]",540
+2021,Oct,ETHIOPIA,"[('between', 'Chifra'), ('near', 'Dire Dawa'), ('near', 'Warder'), ('near', 'El Kere'), ('near', 'Mustakhil')]",138
+2021,Oct,SOMALIA,"[('near', 'Belet Weyne')]",7486
+2021,Oct,SUDAN,"[('between', 'Hamrat Esh'), ('between', 'K assala')]",346
+2021,May,ALGERIA,"[('between', 'In Salah'), ('near', 'Tamanrasset'), ('near', 'Bechar')]",32
+2021,May,SUDAN,"[('near', 'Tokar')]",2868
+2021,May,ETHIOPIA,"[('between', 'Jijiga'), ('near', 'Ayasha')]",12663
+2021,May,SOMALIA,"[('near', 'Iskushuban'), ('near', 'Galkayo')]",18304
+2021,May,ARABIA,"[('between', 'Riyadh'), ('near', 'Al Jawf'), ('near', 'Jubail'), ('between', 'Medinah'), ('near', 'Khamis Mushait')]",11156
+2021,May,JORDAN,"[('near', 'several'), ('near', 'Azraq'), ('near', 'Ghor Sa')]",300
+2021,May,LEBANON,location missing,31
+2021,May,IRAN,"[('near', 'Bandar Ganaveh')]",6370
+2019,Nov,ALGERIA,"[('between', 'A'), ('between', 'Illizi'), ('near', 'In Guezzam'), ('near', 'In Guezzam'), ('between', 'Bordj Badji')]",272
+2019,Nov,SUDAN,"[('between', 'Abu Uruq'), ('between', 'Kassala'), ('between', 'M'), ('between', 'Tokar and'), ('near', 'Karora')]",27165
+2019,Nov,ERITREA,"[('between', 'Foro')]",6060
+2019,Nov,ETHIOPIA,"[('near', 'Dire')]",10822
+2019,Nov,YEMEN,"[('between', 'Al Zuhrah'), ('between', 'Lahij')]",5760
+2019,Nov,OMAN,"[('near', 'Ras Al'), ('near', 'Ras Al'), ('near', 'the UAE'), ('near', 'Ibri'), ('near', 'Duqm')]",116
+2019,Nov,IRAN,"[('near', 'Zarabad')]",1511
+2019,Nov,PAKISTAN,location missing,60970
+2021,Sep,SOMALIA,"[('between', 'Boroma'), ('near', 'Silil')]",9972
+2021,Sep,SUDAN,"[('between', 'El Obeid'), ('near', 'Ed Debba')]",1400
+2020,May,ETHIOPIA,"[('between', 'El Kere'), ('near', 'Mekele')]",57058
+2020,May,SOMALIA,"[('between', 'Boroma'), ('between', 'Galkayo'), ('between', 'Berbera')]",10245
+2020,May,KENYA,"[('near', 'the Persian'), ('between', 'Wadi Dawasir'), ('between', 'Hail'), ('near', 'Najran')]",9015
+2020,May,ARABIA,"[('near', 'the Persian'), ('between', 'Wadi Dawasir'), ('between', 'Hail'), ('near', 'Najran')]",9015
+2020,May,OMAN,"[('near', 'Rustaq'), ('near', 'Ras'), ('near', 'Buraimi'), ('near', 'Buraimi'), ('near', 'Sohar'), ('near', 'Ras Al')]",1385
+2020,May,IRAQ,location missing,101
+2020,May,PAKISTAN,"[('between', 'Panjgur')]",76466
+2020,May,INDIA,"[('near', 'Uttar Pradesh'), ('near', 'Nagpur')]",53604
+2020,Oct,SUDAN,"[('between', 'the Atbara'), ('near', 'Karora'), ('between', 'T omala')]",52912
+2020,Oct,ERITREA,"[('near', 'Sheib'), ('near', 'Tio'), ('near', 'Mehimet and'), ('near', 'Sheib')]",10354
+2020,Oct,ETHIOPIA,"[('near', 'Jijiga had'), ('between', 'Warder')]",335453
+2020,Oct,SOMALIA,"[('between', 'Garowe'), ('between', 'Boroma')]",12974
+2020,Oct,KENYA,location missing,318
+2020,Oct,YEMEN,"[('near', 'Al Hazm'), ('near', 'Al'), ('between', 'Al Zuhrah')]",4609
+2020,Oct,IRAN,"[('near', 'Gouharan')]",4
+2020,Oct,PAKISTAN,"[('near', 'Hyderabad'), ('near', 'Islamgarh')]",220
+2019,Feb,ERITREA,"[('between', 'Foro')]",22219
+2019,Feb,EGYPT,"[('between', 'Abu Ramad'), ('between', 'Abu Ramad'), ('near', 'Tushka')]",4022
+2019,Feb,ARABIA,"[('near', 'Lith'), ('between', 'Thuwal'), ('near', 'Yenbo'), ('between', 'Zalim')]",18468
+2019,Feb,IRAN,"[('near', 'Minab'), ('between', 'Bushehr'), ('near', 'Ghale Ganj'), ('near', 'J ask')]",4582
+2019,Jun,ALGERIA,"[('near', 'irrigated perimeters'), ('near', 'In Salah')]",399
+2019,Jun,SUDAN,"[('near', 'irrigated schemes'), ('between', 'Abu'), ('near', 'Dongola')]",3700
+2019,Jun,EGYPT,"[('near', 'Lake Nasser'), ('near', 'Baris'), ('near', 'Darb Al')]",604
+2019,Jun,ARABIA,"[('near', 'Al Jawf'), ('between', 'Hail'), ('near', 'Wadi Dawasir'), ('near', 'farms south'), ('near', 'Abha')]",39270
+2019,Jun,IRAN,"[('near', 'J ask')]",247270
+2019,Jun,PAKISTAN,"[('near', 'Lasbela'), ('near', 'Lasbela'), ('near', 'Lasbela and'), ('near', 'Islamgarh')]",8684
+2019,Jun,INDIA,"[('between', 'Phalodi')]",3991
+2021,Aug,SOMALIA,"[('near', 'Bulhar'), ('between', 'E')]",11985
+2021,Aug,SUDAN,"[('between', 'Hamrat Esh'), ('between', 'Ed Damer'), ('between', 'Dongola'), ('near', 'Sodiri')]",180
+2019,Jan,MAURITANIA,location missing,100
+2019,Jan,SUDAN,"[('near', 'M')]",34028
+2019,Jan,ERITREA,"[('near', 'the Sudanese')]",6965
+2019,Jan,EGYPT,"[('between', 'Shalatyn'), ('near', 'Abu Ramad'), ('near', 'Tushka')]",1660
+2019,Dec,MAURITANIA,"[('between', 'Bennichab')]",93
+2019,Dec,SUDAN,"[('between', 'Abu Uruq'), ('between', 'Fodukwan')]",26846
+2019,Dec,ERITREA,location missing,11078
+2019,Dec,ETHIOPIA,"[('between', 'Dire Dawa'), ('near', 'Jijiga'), ('between', 'Degeh Bur')]",8410
+2019,Dec,EGYPT,"[('between', 'Shalatyn and'), ('near', 'Lake Nasser')]",30
+2019,Dec,ARABIA,"[('near', 'Qun'), ('between', 'Abha')]",43798
+2019,Dec,YEMEN,"[('between', 'Al Zuhrah'), ('near', 'Al Qutai')]",80
+2019,Dec,OMAN,"[('near', 'Duqm where')]",1710
+2019,Dec,IRAN,"[('near', 'the coast'), ('near', 'C habahar')]",2372
+2019,Dec,PAKISTAN,location missing,71388
+2019,Dec,INDIA,"[('between', 'Phalodi'), ('between', 'Barmer and')]",22113
+2020,Aug,ERITREA,"[('between', 'Kerkebet'), ('near', 'Adi'), ('near', 'Buya'), ('near', 'Adi Keyh'), ('between', 'Tio')]",1310
+2020,Aug,ETHIOPIA,"[('near', 'Dire Dawa'), ('near', 'Ayasha and')]",54703
+2020,Aug,SOMALIA,"[('between', 'Hargeisa'), ('near', 'Bulhar'), ('near', 'Silil'), ('near', 'E'), ('between', 'Dusa Mareb')]",8800
+2020,Aug,KENYA,location missing,5454
+2020,Aug,SUDAN,"[('near', 'Kapoeta at'), ('near', 'Naguri')]",250
+2020,Aug,ARABIA,"[('near', 'Jizan')]",1355
+2020,Aug,YEMEN,"[('near', 'Al Hazm'), ('near', 'Shehan'), ('near', 'Sana'), ('near', 'Mayfa'), ('between', 'Suq Abs')]",5909
+2020,Aug,OMAN,"[('near', 'Salalah'), ('near', 'the coast'), ('near', 'Thumrait'), ('near', 'Sur'), ('near', 'Buraimi')]",58
+2020,Aug,PAKISTAN,"[('between', 'Chachro'), ('near', 'Uthal')]",26381
+2020,Aug,INDIA,"[('between', 'Churu')]",49124
+2019,Sep,ERITREA,"[('between', 'Massawa'), ('between', 'Wekiro and')]",53
+2019,Sep,ETHIOPIA,location missing,4636
+2019,Sep,ARABIA,"[('near', 'Jizan'), ('near', 'L')]",4195
+2019,Sep,YEMEN,"[('between', 'Al Zuhrah'), ('between', 'Zabid'), ('near', 'Marib')]",245
+2019,Sep,PAKISTAN,"[('near', 'the'), ('near', 'Nagarparkar')]",30210
+2019,Sep,INDIA,location missing,84639
+2020,Apr,ETHIOPIA,"[('between', 'Arba Minch'), ('between', 'Negele')]",99948
+2020,Apr,SOMALIA,"[('near', 'Bulhar'), ('near', 'the Ethiopian'), ('near', 'Dusa')]",600
+2020,Apr,KENYA,"[('between', 'Mbale')]",14637
+2020,Apr,ARABIA,"[('near', 'the Persian'), ('between', 'Al Hofuf'), ('near', 'the UAE'), ('near', 'Layla'), ('between', 'Hail')]",29868
+2020,Apr,IRAQ,"[('between', 'Al Diwaniyah')]",815
+2020,Apr,PAKISTAN,"[('near', 'Panjgur'), ('near', 'Dalbandin')]",50289
+2020,Apr,INDIA,"[('between', 'Sri')]",1970
+2020,Apr,AFGHANISTAN,"[('near', 'the Helmand')]",20
+2020,Mar,SUDAN,"[('near', 'the Eritrean'), ('near', 'Selima Oasis')]",870
+2020,Mar,ERITREA,"[('near', 'Tio')]",5640
+2020,Mar,ETHIOPIA,"[('between', 'Dire')]",39656
+2020,Mar,UGANDA,"[('near', 'the Kenyan'), ('near', 'the')]",607
+2020,Mar,EGYPT,"[('near', 'El Sheikh'), ('near', 'Lake Nasser')]",15
+2020,Mar,ARABIA,"[('near', 'Qun'), ('near', 'the Persian'), ('between', 'Al Hofuf'), ('between', 'Hail'), ('near', 'the Iraqi')]",10390
+2020,Mar,YEMEN,"[('between', 'Hodeidah'), ('between', 'Al'), ('near', 'Ahwar'), ('near', 'Hat')]",3190
+2020,Mar,OMAN,"[('between', 'Muscat'), ('between', 'Duqm'), ('near', 'Thumrait')]",1657
+2020,Mar,IRAQ,location missing,1625
+2020,Mar,IRAN,"[('between', 'Minab'), ('near', 'Bampur')]",39676
+2020,Jul,ETHIOPIA,"[('near', 'Dire'), ('near', 'Semera')]",44883
+2020,Jul,SOMALIA,"[('near', 'Burao'), ('near', 'Garowe'), ('near', 'Hargeisa'), ('near', 'Hargeisa and'), ('near', 'Dusa Mareb')]",12569
+2020,Jul,KENYA,"[('near', 'the Uganda')]",12080
+2020,Jul,UGANDA,location missing,3080
+2020,Jul,ARABIA,"[('near', 'Najran')]",440
+2020,Jul,OMAN,"[('near', 'Nizwa')]",443
+2020,Jul,PAKISTAN,"[('near', 'Panjgur'), ('near', 'Quetta'), ('near', 'Nagarparkar')]",33599
+2020,Jul,INDIA,"[('between', 'Jodhpur')]",102645
+2020,Jul,AFGHANISTAN,location missing,304
+2020,Nov,MAURITANIA,"[('between', 'Nouakchott')]",258
+2020,Nov,NIGER,"[('between', 'Arlit'), ('near', 'the Algeria')]",1398
+2020,Nov,ALGERIA,location missing,167
+2020,Nov,SUDAN,"[('between', 'the Atbara'), ('near', 'Haiya'), ('between', 'Tomala'), ('near', 'O'), ('near', 'E it')]",66488
+2020,Nov,ERITREA,"[('between', 'Idd'), ('between', 'S'), ('near', 'Sheib and')]",8986
+2020,Nov,SOMALIA,"[('between', 'Boroma'), ('near', 'Bulhar'), ('between', 'Garowe'), ('near', 'the border'), ('between', 'Garbahare')]",30323
+2020,Nov,KENYA,"[('near', 'Voi'), ('near', 'the Tana')]",167
+2020,Nov,EGYPT,"[('near', 'the Red'), ('between', 'Shalatyn'), ('near', 'Lake Nasser'), ('near', 'Salum')]",1225
+2020,Nov,ARABIA,"[('near', 'Taif')]",5190
+2020,Nov,YEMEN,"[('between', 'Suq Abs'), ('near', 'Suq Abs'), ('near', 'Al Hazm'), ('between', 'Am Rija'), ('near', 'Ahwar'), ('between', 'Bir Ali')]",335
+2020,Nov,IRAN,"[('between', 'the Iraq')]",79
+2021,Apr,SUDAN,"[('between', 'Suakin')]",4640
+2021,Apr,ETHIOPIA,"[('near', 'Degeh Bur')]",14370
+2021,Apr,KENYA,"[('between', 'Nakuru'), ('near', 'Maralal')]",136
+2021,Apr,EGYPT,"[('near', 'the Sudan'), ('near', 'Lake')]",307
+2021,Apr,ARABIA,"[('between', 'Tabuk'), ('between', 'Dammam'), ('near', 'Al Jawf'), ('near', 'Hail and')]",8250
+2021,Apr,KUWAIT,"[('near', 'the Saudi')]",2
+2021,Apr,IRAQ,"[('near', 'Rawa')]",140
+2021,Apr,JORDAN,"[('near', 'Al'), ('near', 'Ruwaished'), ('near', 'Kerak'), ('near', 'Azraq'), ('near', 'Al Jafr'), ('near', 'Ghor')]",1500
+2021,Apr,SYRIA,"[('near', 'the Iraq'), ('near', 'crops at'), ('near', 'Qarah'), ('near', 'Latakia'), ('near', 'Quneitra')]",2867
+2021,Apr,LEBANON,"[('near', 'Aarsal')]",406
+2021,Apr,IRAN,"[('near', 'Dezful'), ('near', 'the coast'), ('near', 'Abadan')]",4718
+2021,Jul,MOROCCO,location missing,30
+2021,Jul,SUDAN,"[('near', 'Karima'), ('near', 'Shendi'), ('near', 'Shendi')]",525
+2021,Jul,ETHIOPIA,"[('near', 'Ayasha on'), ('near', 'Gonder in')]",3788
+2021,Jul,DJIBOUTI,"[('near', 'As')]",55
+2021,Jul,SOMALIA,"[('near', 'Boroma'), ('near', 'the escarpment'), ('between', 'Boroma and'), ('near', 'Berbera and')]",27162
+2021,Jul,EGYPT,"[('near', 'Lake Nasser'), ('between', 'Abu Ramad')]",50
+2021,Mar,SUDAN,"[('between', 'Shendi')]",7437
+2021,Mar,ERITREA,"[('near', 'Wekiro'), ('near', 'Idd')]",100
+2021,Mar,SOMALIA,location missing,12396
+2021,Mar,ARABIA,"[('between', 'Thuwal'), ('between', 'Hail'), ('near', 'Gassim')]",50120
+2021,Mar,IRAN,"[('near', 'Dezful')]",1521
+2021,Nov,EGYPT,"[('between', 'the Sudan'), ('near', 'Lake Nasser')]",100
+2021,Nov,ERITREA,location missing,97
+2021,Nov,ETHIOPIA,"[('near', 'the Somalia'), ('near', 'El Kere'), ('between', 'Arero')]",2126
+2021,Nov,SOMALIA,"[('near', 'Boroma'), ('near', 'Sheikh'), ('near', 'the Ethiopia'), ('near', 'Galkayo')]",18405
+2021,Nov,SUDAN,"[('near', 'E it')]",17735
+2019,May,ALGERIA,"[('near', 'a few'), ('between', 'Reggane'), ('near', 'Illizi'), ('near', 'Bechar'), ('near', 'A')]",16
+2019,May,EGYPT,"[('near', 'Abu Ramad'), ('near', 'Abu Simbel')]",401
+2019,May,ARABIA,"[('between', 'Riyadh'), ('between', 'Riyadh and'), ('near', 'Hail'), ('between', 'Al Hofuf'), ('near', 'Wadi'), ('between', 'Riyadh and'), ('near', 'Umm Lajj')]",74237
+2019,May,KUWAIT,"[('near', 'the Iraq')]",15653
+2019,May,JORDAN,"[('near', 'Al Jafr'), ('near', 'Al Jafr'), ('near', 'Ta')]",900
+2019,May,IRAN,"[('near', 'Chah Deraz')]",2000
+2019,May,PAKISTAN,"[('near', 'the Baluchistan'), ('between', 'Turbat'), ('near', 'Uthal'), ('near', 'Kharan'), ('near', 'the Indian')]",346180
+2019,May,INDIA,"[('near', 'Jaisalmer'), ('between', 'S'), ('between', 'Bikaner')]",3025
+2019,Oct,NIGER,location missing,1560
+2019,Oct,ALGERIA,"[('near', 'Illizi'), ('near', 'In Guezzam'), ('near', 'In Guezzam')]",29
+2019,Oct,ETHIOPIA,"[('between', 'Dire'), ('near', 'Eritrea'), ('between', 'Degeh Bur')]",15
+2019,Oct,ARABIA,"[('near', 'Lith')]",4064
+2019,Oct,YEMEN,"[('between', 'Al Zuhrah'), ('between', 'Bajil'), ('near', 'Lahij'), ('between', 'Am Rija'), ('near', 'Bayhan'), ('near', 'Hawra'), ('near', 'Sana')]",1805
+2020,Feb,SUDAN,"[('between', 'Aqiq'), ('near', 'Aiterba'), ('near', 'O'), ('between', 'Ed Damer')]",32
+2020,Feb,ERITREA,location missing,5050
+2020,Feb,ETHIOPIA,"[('near', 'Harar')]",12
+2020,Feb,EGYPT,"[('near', 'El Sheikh'), ('between', 'Shalatyn'), ('near', 'Lake Nasser')]",41050
+2020,Feb,ARABIA,"[('near', 'Q')]",154
+2020,Feb,OMAN,"[('between', 'Sur'), ('near', 'Muscat and'), ('between', 'Adam')]",22645
+2020,Feb,IRAQ,location missing,2100
+2020,Feb,IRAN,"[('between', 'Minab'), ('near', 'Sowlan'), ('near', 'the Pakistani')]",69
+2020,Feb,PAKISTAN,"[('between', 'Khuzdar'), ('near', 'Kharan')]",2617
+2020,Feb,INDIA,"[('near', 'the Pakistan'), ('between', 'Barmer')]",8299
+2020,Jun,ETHIOPIA,"[('between', 'El Kere'), ('between', 'Gewana'), ('near', 'Mekele'), ('near', 'Adigrat')]",11420
+2020,Jun,SOMALIA,"[('between', 'Boroma'), ('near', 'Garowe'), ('between', 'Galkayo'), ('near', 'H')]",75219
+2020,Jun,ARABIA,"[('between', 'Al Jawf'), ('near', 'Najran'), ('near', 'Wadi Dawasir'), ('near', 'Khamis Mushait')]",19029
+2020,Jun,YEMEN,"[('between', 'Al Hazm'), ('between', 'Sana'), ('near', 'the Red'), ('near', 'Aden'), ('near', 'Shabwah'), ('between', 'Remah')]",5360
+2020,Jun,OMAN,"[('near', 'Nizwa'), ('near', 'Ras Al')]",343
+2020,Jun,IRAN,"[('near', 'the Pakistan')]",126
+2020,Jun,PAKISTAN,"[('near', 'the'), ('between', 'Pasni and'), ('near', 'Khuzdar and'), ('near', 'Nagarparkar')]",67689
+2020,Jun,INDIA,location missing,47198
+2020,Jun,AFGHANISTAN,"[('near', 'Spin Boldak')]",72109
+2021,Dec,EGYPT,"[('between', 'El Sheikh'), ('near', 'Lake Nasser')]",2645
+2021,Dec,ETHIOPIA,location missing,6
+2021,Jan,SUDAN,location missing,1956
+2021,Jan,ETHIOPIA,"[('near', 'Jijiga'), ('near', 'Gode'), ('near', 'Dolo'), ('between', 'Arba'), ('near', 'Dese'), ('near', 'Kebri'), ('near', 'Harar in')]",7122
+2021,Jan,SOMALIA,location missing,166158
+2021,Jan,KENYA,location missing,53665
+2021,Jan,TANZANIA,"[('between', 'Naberera')]",39036
+2021,Jan,EGYPT,"[('near', 'the Sudan'), ('near', 'Lake Nasser')]",450
+2021,Jan,ARABIA,"[('near', 'Qun'), ('between', 'L'), ('near', 'Jizan')]",755
+2021,Jun,ALGERIA,"[('near', 'El Golea'), ('between', 'Reggane')]",47070
+2021,Jun,SUDAN,"[('between', 'Khartoum'), ('near', 'Merowe')]",351
+2021,Jun,ETHIOPIA,"[('near', 'Ayasha'), ('near', 'and Bati')]",330
+2021,Jun,DJIBOUTI,location missing,6436
+2021,Jun,SOMALIA,"[('between', 'Boroma')]",10
+2021,Jun,YEMEN,"[('between', 'Ataq'), ('near', 'Shabwah'), ('between', 'Minwakh'), ('near', 'Hat'), ('near', 'Al Hazm'), ('near', 'Sana'), ('near', 'Sada')]",80330
+2021,Feb,SUDAN,"[('near', 'T omala'), ('between', 'Aiterba'), ('between', 'T okar'), ('near', 'Khor'), ('near', 'Haiya'), ('near', 'Shendi')]",5
+2021,Feb,ERITREA,"[('near', 'Mehimet'), ('near', 'Wekiro'), ('near', 'Foro'), ('near', 'Ginda'), ('near', 'Mehimet at')]",16781
+2021,Feb,ETHIOPIA,"[('near', 'the Kenya'), ('near', 'Jijiga')]",1500
+2021,Feb,SOMALIA,"[('near', 'Djibouti but'), ('between', 'H'), ('between', 'Iskushuban')]",73838
+2021,Feb,KENYA,location missing,21143
+2021,Feb,TANZANIA,"[('near', 'Landanai'), ('near', 'Longido'), ('near', 'Rongai')]",11349
+2021,Feb,EGYPT,"[('near', 'the Sudan'), ('between', 'Halaib'), ('near', 'Lake')]",638
+2021,Feb,ARABIA,"[('between', 'Lith'), ('between', 'Riyadh'), ('between', 'Thuwal')]",30
+2020,Jan,MAURITANIA,"[('between', 'Bennichab')]",104775
+2020,Jan,SUDAN,"[('near', 'Fodukwan'), ('near', 'Dongola')]",32
+2020,Jan,ERITREA,"[('between', 'Wekiro'), ('near', 'Assab')]",18714
+2020,Jan,ETHIOPIA,"[('near', 'Konso')]",15068
+2020,Jan,SOMALIA,"[('between', 'Lughaye'), ('between', 'Lasqoray'), ('near', 'Garowe'), ('near', 'and the')]",22550
+2020,Jan,KENYA,location missing,15000
+2020,Jan,EGYPT,"[('between', 'El Sheikh'), ('between', 'Shalatyn'), ('near', 'Lake Nasser'), ('near', 'Sh')]",20000
+2020,Jan,ARABIA,"[('near', 'Najran'), ('between', 'Jeddah and')]",1425
+2020,Jan,OMAN,"[('near', 'Duqm'), ('near', 'Al Jazar')]",44311
+2020,Jan,YEMEN,"[('between', 'Al Zuhrah'), ('near', 'Hodeidah and'), ('near', 'Pishin')]",2128
+2020,Jan,IRAN,"[('near', 'Pishin')]",2041
+2020,Jan,PAKISTAN,"[('near', 'Dera Ismail')]",2041
+2020,Jan,INDIA,location missing,62295
+2020,Dec,MAURITANIA,"[('near', 'Aguilal')]",61178
+2020,Dec,NIGER,location missing,485
+2020,Dec,ALGERIA,"[('near', 'Djanet'), ('between', 'Tindouf'), ('near', 'Tindouf')]",2470
+2020,Dec,SUDAN,"[('between', 'Haiya'), ('near', 'Aqiq'), ('near', 'T omala'), ('near', 'Oseif')]",43
+2020,Dec,ERITREA,"[('near', 'Sheib'), ('between', 'Mehimet'), ('near', 'Ghelaelo'), ('near', 'Sheib'), ('near', 'Tio')]",18873
+2020,Dec,ETHIOPIA,"[('near', 'the Kenya'), ('near', 'Harar')]",1780
+2020,Dec,SOMALIA,"[('between', 'Galkayo'), ('between', 'H'), ('near', 'Bulhar'), ('near', 'Bosaso')]",210673
+2020,Dec,KENYA,"[('between', 'Lamu'), ('near', 'the Ethiopian'), ('near', 'the')]",39101
+2020,Dec,EGYPT,"[('near', 'Lake Nasser')]",1336
+2020,Dec,ARABIA,"[('between', 'Qun'), ('near', 'Umm Lajj'), ('between', 'Qun'), ('near', 'Bader'), ('near', 'Gassim')]",235
+2019,Aug,MALI,location missing,61075
+2019,Aug,LIBYA,"[('near', 'G')]",40
+2019,Aug,SUDAN,"[('between', 'Sodiri'), ('between', 'K assala'), ('near', 'A bu'), ('near', 'Kassala')]",70
+2019,Aug,ETHIOPIA,"[('between', 'Dire'), ('near', 'the border')]",200
+2019,Aug,ARABIA,"[('between', 'Al Baha'), ('near', 'Najran'), ('near', 'Jizan')]",11
+2019,Aug,YEMEN,"[('between', 'Sana'), ('between', 'Marib'), ('near', 'Aden'), ('near', 'Hodeidah'), ('near', 'Marib'), ('near', 'Bab El')]",3900
+2019,Aug,PAKISTAN,"[('near', 'the Indian')]",110
+2019,Aug,INDIA,"[('between', 'Jaisalmer'), ('between', 'Bikaner')]",16455
