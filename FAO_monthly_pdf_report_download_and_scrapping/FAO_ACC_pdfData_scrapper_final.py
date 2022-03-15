@@ -505,10 +505,10 @@ def FAO_ACC_pdfReportData_scrapper(path):
     )
     #print(df)
     df = df.drop_duplicates()
-    df.to_csv(f"{path}2010_2021_ACC_Treatment_data_with_species_and_operation_type.csv", index=False)
+    df.to_csv(f"{path}2010_2021_ACC_Treatment_data.csv", index=False)
     return df
 
 
-path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/CIT_MDA_CCA_MLI_Cental_Asia/"
+path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/hand_over_Okoth/Data/CIT_MDA_CCA_MLI_Cental_Asia_pdfs_and_csv"
 
 FAO_ACC_pdfReportData_scrapper(path=path)

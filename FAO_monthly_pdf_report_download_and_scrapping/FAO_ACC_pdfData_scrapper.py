@@ -1,7 +1,7 @@
 # Change the path to where the ACC pdf files are located in the local dir.
 
+#path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/test_dowload/"
 
-path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/CIT_MDA_CCA_MLI_Cental_Asia/"
 def FAO_ACC_pdfReportData_scrapper(path):
     import pandas as pd
     import os
@@ -63,24 +63,23 @@ def FAO_ACC_pdfReportData_scrapper(path):
         y0 = 0  # Distance of bottom of character from bottom of page.
         y1 = 1  # Distance of to
 
-        try:
-            with pdfplumber.open(f'{path}{fileX}') as pdf:
-                for i, page in enumerate(pdf.pages):
-                    width = page.width
-                    height = page.height
-                    # Crop pages
-                    left_bbox = (x0 * float(width), y0 * float(height), x1 * float(width), y1 * float(height))
-                    page_crop = page.crop(bbox=left_bbox)
-                    left_text = page_crop.extract_text()
+        with pdfplumber.open(f'{path}{fileX}') as pdf:
+            for i, page in enumerate(pdf.pages):
+                width = page.width
+                height = page.height
+                # Crop pages
+                left_bbox = (x0 * float(width), y0 * float(height), x1 * float(width), y1 * float(height))
+                page_crop = page.crop(bbox=left_bbox)
+                left_text = page_crop.extract_text()
 
-                    right_bbox = (0.5 * float(width), y0 * float(height), 1 * float(width), y1 * float(height))
-                    page_crop = page.crop(bbox=right_bbox)
-                    right_text = page_crop.extract_text()
+                right_bbox = (0.5 * float(width), y0 * float(height), 1 * float(width), y1 * float(height))
+                page_crop = page.crop(bbox=right_bbox)
+                right_text = page_crop.extract_text()
 
-                    page_context = '\n'.join([left_text, right_text])
-                    pdf_text += page_context
-        except:
-            pass  # doing nothing on exception
+                page_context = '\n'.join([left_text, right_text])
+                pdf_text += page_context
+
+
 
 
 
@@ -128,11 +127,9 @@ def FAO_ACC_pdfReportData_scrapper(path):
             stop_point.append(match.end(0))
 
 
-        #string_to_search = pdf_text[start[0]:end[0]]
-        try:
-            string_to_search = pdf_text[start[0]:end[0]]
-        except:
-            pass  # doing nothing on exception
+
+        string_to_search = pdf_text[start[0]:end[0]]
+
 
         month = re.findall(r'[a-zA-Z]+', fileX)[0]
         year = re.findall(r'\d+', fileX)[0]
@@ -290,7 +287,9 @@ def FAO_ACC_pdfReportData_scrapper(path):
     )
 
     df = df.drop_duplicates()
-    df.to_csv(f"{path}2010_2021_ACC_Treatment_data_test.csv", index=False)
+    df.to_csv(f"{path}2010_2021_ACC_Treatment_Data.csv", index=False)
     return df
 
+path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/hand_over_Okoth/Data/CIT_MDA_CCA_MLI_Cental_Asia_pdfs_and_csv/"
+#path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/CIT_MDA_CCA_MLI_Cental_Asia/test/"
 FAO_ACC_pdfReportData_scrapper(path=path)

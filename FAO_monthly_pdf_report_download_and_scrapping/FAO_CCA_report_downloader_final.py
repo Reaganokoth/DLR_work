@@ -1,9 +1,8 @@
 # This code downloads ACC monthly report from FAO archives https://www.fao.org/locusts-cca/current-situation/
 # the function takes in one parameter (path) which points to the directory where you want the files to be stored.
 # the path should point to the folder to store the files.Change the path parameter to where you want the files to be stored in your local directory.
-
+path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/CIT_MDA_CCA_MLI_Cental_Asia/test/"
 def FAO_ACC_monthly_report_downloader(path):
-    print("Downloading data from https://www.fao.org/locusts-cca/current-situation/ ...")
     import re
     import os
     import requests
@@ -66,7 +65,5 @@ def FAO_ACC_monthly_report_downloader(path):
                 with open(f'{path}{fileName}.pdf', 'wb') as f:
                     f.write(file.content)
     print(f"{len(fileFilter(path, '.pdf'))} files have been downloaded and saved in  {path}")
-
-path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/CIT_MDA_CCA_MLI_Cental_Asia/"
 
 FAO_ACC_monthly_report_downloader(path=path)

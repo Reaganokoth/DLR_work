@@ -228,12 +228,12 @@ def DLrepordDownload(periods, path):
 
 
 # period = ["2010-2019", "2020-2029"]
-#period = ["2020-2029"]
-path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/test_dowload/"
+period = ["2020-2029"]
+path = "/Users/rragankonywa/OneDrive/UniWurzburg/EAGLES/Semester3/Internship/DLR_Internship/Internship/week1/test_dowload/test/test/"
 
 # Download all reports in a single period
-#DLrepordDownload(periods="2020-2029", path=path)  # implementation 1
+DLrepordDownload(periods="2020-2029", path=path)  # implementation 1
 
 # Download all reports in a multiple periods
-DLrepordDownload(periods=["2010-2019", "2020-2029"], path=path)  # implementation 2
+DLrepordDownload(periods=["2000-2009", "2010-2019", "2020-2029"], path=path)  # implementation 2
 

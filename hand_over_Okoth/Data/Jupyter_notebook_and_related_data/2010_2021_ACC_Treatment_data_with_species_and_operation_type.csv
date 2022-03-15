@@ -1,0 +1,350 @@
+Year,Month,Country,T_area (ha),Species,Operation_type
+2020,Jul,Afghanistan,3746,CIT,treated
+2020,Jul,Armenia,1130,DMA & CIT & LMI,treated
+2020,Jul,Azerbaijan,8602,DMA & CIT,treated
+2020,Jul,Georgia,38081,DMA,treated
+2020,Jul,Kazakhstan,85400,DMA & CIT & LMI,treated
+2020,Jul,Kyrgyzstan,14825,DMA & CIT,treated
+2020,Jul,Russia,108420,DMA & CIT & LMI,treated
+2020,Jul,Tajikistan,5504,DMA & CIT,treated
+2020,Jul,Uzbekistan,31386,DMA & CIT & LMI,treated
+2017,Aug,Azerbaijan,9496,DMA,controlled
+2017,Aug,Georgia,1000,CIT,treated
+2017,Aug,Kyrgyzstan,4309,DMA & CIT,controlled
+2017,Aug,Russia,46590,DMA & CIT & LMI,treated
+2021,Mar,Tajikistan,4843,DMA & CIT,treated
+2021,Mar,Turkmenistan,100,DMA,controlled
+2021,Mar,Uzbekistan,875,DMA & CIT & LMI,treated
+2020,Mar,Tajikistan,8375,DMA & CIT,treated
+2020,Mar,Uzbekistan,4672,DMA & CIT & LMI,treated
+2021,Jul,Afghanistan,600,CIT,controlled
+2021,Jul,Armenia,498,DMA & LMI & CIT,treated
+2021,Jul,Azerbaijan,13425.5,CIT,controlled
+2021,Jul,Georgia,38175,DMA,treated
+2021,Jul,Kazakhstan,77460,DMA & CIT & LMI,treated
+2021,Jul,Kyrgyzstan,14308,DMA & CIT,controlled
+2021,Jul,Russia,750000,LMI,controlled
+2021,Jul,Tajikistan,4626,,controlled
+2021,Jul,Turkmenistan,114,DMA,controlled
+2021,Jul,Uzbekistan,25806,DMA & CIT & LMI,controlled
+2021,May,Afghanistan,62760,DMA & CIT & LMI,controlled
+2021,May,Azerbaijan,5986.5,DMA & CIT,controlled
+2021,May,Georgia,13230,DMA,controlled
+2021,May,Kazakhstan,111040,DMA & CIT & LMI,treated
+2021,May,Kyrgyzstan,18150,DMA & CIT,treated
+2021,May,Tajikistan,79282,DMA & CIT,treated
+2021,May,Turkmenistan,32735,DMA & LMI,treated
+2021,May,Uzbekistan,326819,DMA & CIT & LMI,treated
+2020,Apr,Afghanistan,27162,DMA,treated
+2020,Apr,Azerbaijan,285,DMA,controlled
+2020,Apr,Kazakhstan,29800,DMA & CIT & LMI,treated
+2020,Apr,Russia,500,,
+2020,Apr,Tajikistan,36086,DMA,treated
+2020,Apr,Uzbekistan,56119,DMA & CIT & LMI,treated
+2014,Aug,Georgia,1510,CIT & DMA,controlled
+2014,Aug,Kyrgyzstan,4254,DMA & CIT,controlled
+2014,Aug,Russia,44300,,treated
+2015,Aug,Georgia,2825,CIT,controlled
+2015,Aug,Kazakhstan,13000,DMA & CIT & LMI,controlled
+2015,Aug,Russia,129940,DMA & CIT & LMI,treated
+2021,Apr,Afghanistan,36802,DMA,controlled
+2021,Apr,Azerbaijan,12,DMA,controlled
+2021,Apr,Kazakhstan,20000,CIT & DMA & LMI,treated
+2021,Apr,Turkmenistan,10690,DMA & CIT,treated
+2021,Apr,Uzbekistan,112191,DMA & CIT & LMI,treated
+2020,May,Afghanistan,35413,DMA & CIT,treated
+2020,May,Azerbaijan,6360,DMA & CIT,treated
+2020,May,Georgia,1210,DMA,treated
+2020,May,Kazakhstan,84400,DMA & CIT & LMI,treated
+2020,May,Kyrgyzstan,14817,DMA & CIT,treated
+2020,May,Russia,91100,,treated
+2020,May,Tajikistan,57414,DMA & CIT,treated
+2020,May,Uzbekistan,253571,DMA & CIT & LMI,treated
+2018,May,Azerbaijan,28900,DMA,controlled
+2018,May,Georgia,705,DMA & CIT,controlled
+2018,May,Kazakhstan,583800,DMA & CIT & LMI,treated
+2018,May,Kyrgyzstan,53037,DMA & CIT,treated
+2018,May,Russia,181950,,treated
+2018,May,Tajikistan,39621,DMA & CIT,controlled
+2018,May,Uzbekistan,130420,DMA & CIT & LMI,controlled
+2019,Apr,Afghanistan,35445,DMA,
+2019,Apr,Azerbaijan,2500,DMA,controlled
+2019,Apr,Kazakhstan,3800,CIT & DMA & LMI,treated
+2019,Apr,Kyrgyzstan,19300,DMA,treated
+2019,Apr,Tajikistan,12163,DMA,controlled
+2019,Apr,Uzbekistan,49200,DMA & CIT & LMI,controlled
+2010,Aug,Armenia,2560,CIT,treated
+2010,Aug,Georgia,3200,CIT,controlled
+2010,Aug,Uzbekistan,200,CIT & LMI,treated
+2018,Apr,Kazakhstan,158300,DMA & CIT & LMI,treated
+2018,Apr,Kyrgyzstan,16650,DMA & CIT,treated
+2018,Apr,Tajikistan,37720,DMA,controlled
+2018,Apr,Uzbekistan,194212,DMA & CIT & LMI,controlled
+2019,May,Afghanistan,13216,DMA & CIT,controlled
+2019,May,Azerbaijan,32625,DMA,controlled
+2019,May,Kazakhstan,28100,DMA & CIT & LMI,treated
+2019,May,Kyrgyzstan,24520,DMA & CIT,treated
+2019,May,Russia,37240,,treated
+2019,May,Tajikistan,57433,DMA & CIT,controlled
+2019,May,Uzbekistan,208800,DMA & CIT & LMI,controlled
+2019,Jul,Armenia,1310,CIT,treated
+2019,Jul,Azerbaijan,3303,DMA & CIT & LMI,controlled
+2019,Jul,Kazakhstan,104600,DMA & CIT & LMI,treated
+2019,Jul,Russia,94800,LMI & CIT & DMA,treated
+2019,Jul,Tajikistan,6845,DMA & CIT,treated
+2019,Jul,Uzbekistan,39400,DMA & CIT & LMI,treated
+2018,Mar,Afghanistan,3158,DMA,controlled
+2018,Mar,Tajikistan,11477,DMA,treated
+2018,Mar,Uzbekistan,42000,DMA & CIT & LMI,treated
+2019,Mar,Uzbekistan,1500,DMA & CIT & LMI,treated
+2013,Aug,Armenia,1000,CIT,controlled
+2013,Aug,Russia,110950,,treated
+2018,Jul,Afghanistan,5496,DMA,treated
+2018,Jul,Azerbaijan,250,DMA,treated
+2018,Jul,Kazakhstan,252790,DMA & CIT & LMI,treated
+2018,Jul,Kyrgyzstan,16575,DMA & CIT,treated
+2018,Jul,Russia,154790,,treated
+2018,Jul,Tajikistan,4917,DMA & CIT,treated
+2018,Jul,Uzbekistan,24000,DMA & CIT & LMI,treated
+2010,Jun,Azerbaijan,25720,DMA,treated
+2010,Jun,Georgia,10000,DMA & CIT,controlled
+2010,Jun,Kazakhstan,1545710,DMA & CIT & LMI,controlled
+2010,Jun,Kyrgyzstan,69606,DMA & CIT,treated
+2010,Jun,Tajikistan,24651,DMA & CIT & LMI,controlled
+2010,Jun,Uzbekistan,93000,DMA & CIT & LMI,controlled
+2012,Oct,Armenia,2100,CIT,controlled
+2012,Oct,Russia,21080,,controlled
+2011,Jun,Afghanistan,240028,CIT,treated
+2011,Jun,Georgia,500,DMA & CIT,treated
+2011,Jun,Kyrgyzstan,61436,DMA & CIT,controlled
+2011,Jun,Russia,451000,DMA & CIT,controlled
+2011,Jun,Tajikistan,133622,DMA & CIT & LMI,treated
+2013,Jun,Afghanistan,69152,DMA,controlled
+2013,Jun,Azerbaijan,8200,,controlled
+2013,Jun,Kazakhstan,65290,DMA & CIT & LMI,controlled
+2013,Jun,Kyrgyzstan,3000,DMA,
+2013,Jun,Tajikistan,36490,DMA,controlled
+2012,Jun,Armenia,2000,CIT,treated
+2012,Jun,Azerbaijan,2250,DMA,controlled
+2012,Jun,Georgia,8470,DMA & CIT,controlled
+2012,Jun,Kazakhstan,1970390,CIT & DMA & LMI,treated
+2012,Jun,Kyrgyzstan,8869,CIT & DMA,treated
+2012,Jun,Russia,1109800,CIT,treated
+2012,Jun,Uzbekistan,108841,DMA & CIT & LMI,treated
+2016,Jun,Afghanistan,15480,DMA,controlled
+2016,Jun,Azerbaijan,17027,CIT,treated
+2016,Jun,Georgia,9065,DMA,controlled
+2016,Jun,Kyrgyzstan,22770,DMA & CIT,controlled
+2016,Jun,Russia,305590,DMA & CIT & LMI,treated
+2016,Jun,Tajikistan,17580,DMA & CIT,controlled
+2016,Jun,Turkmenistan,2950,CIT,treated
+2016,Jun,Uzbekistan,169000,CIT & DMA & LMI,treated
+2017,Jun,Afghanistan,97706,,
+2017,Jun,Armenia,1000,,
+2017,Jun,Georgia,3437,,
+2017,Jun,Kyrgyzstan,37108,,
+2017,Jun,Russia,337880,,
+2017,Jun,Tajikistan,47447,,
+2017,Jun,Turkmenistan,5960,,
+2017,Jun,Uzbekistan,195000,DMA & CIT & LMI,controlled
+2015,Jun,Afghanistan,5300,DMA,controlled
+2015,Jun,Azerbaijan,6680,CIT,controlled
+2015,Jun,Georgia,16941,DMA & CIT,controlled
+2015,Jun,Kyrgyzstan,11453,DMA & CIT,controlled
+2015,Jun,Russia,394900,DMA & CIT & LMI,controlled
+2015,Jun,Tajikistan,29837,DMA & CIT,treated
+2015,Jun,Uzbekistan,131855,DMA & CIT & LMI,controlled
+2014,Jun,Afghanistan,32345,DMA,controlled
+2014,Jun,Azerbaijan,53241,CIT,controlled
+2014,Jun,Georgia,19809,DMA,controlled
+2014,Jun,Kyrgyzstan,53562,DMA & CIT,treated
+2014,Jun,Russia,631700,DMA,treated
+2014,Jun,Tajikistan,21163,DMA & CIT,controlled
+2014,Jun,Uzbekistan,113872,CIT & DMA & LMI,controlled
+2019,Jun,Afghanistan,41629,DMA & CIT & LMI,controlled
+2019,Jun,Azerbaijan,15390,CIT,treated
+2019,Jun,Georgia,19597,DMA,treated
+2019,Jun,Kazakhstan,434701,DMA & CIT & LMI,treated
+2019,Jun,Kyrgyzstan,30837,DMA & CIT,treated
+2019,Jun,Russia,214990,DMA & LMI & CIT,treated
+2019,Jun,Tajikistan,45612,DMA & CIT,treated
+2019,Jun,Turkmenistan,139033,DMA,treated
+2019,Jun,Uzbekistan,204000,DMA & CIT & LMI,treated
+2018,Jun,Azerbaijan,17200,DMA,controlled
+2018,Jun,Georgia,6760,DMA & CIT,treated
+2018,Jun,Kazakhstan,852700,DMA & CIT & LMI,controlled
+2018,Jun,Kyrgyzstan,58612,DMA & CIT,treated
+2018,Jun,Russia,495540,,treated
+2018,Jun,Tajikistan,62845,DMA & CIT,treated
+2018,Jun,Uzbekistan,142012,DMA & CIT & LMI,controlled
+2020,Jun,Afghanistan,24263,DMA & CIT & LMI,treated
+2020,Jun,Azerbaijan,14629,DMA & CIT,treated
+2020,Jun,Georgia,28000,DMA,treated
+2020,Jun,Kazakhstan,344000,DMA & CIT & LMI,treated
+2020,Jun,Kyrgyzstan,30030,DMA & CIT,treated
+2020,Jun,Russia,270860,CIT & DMA & LMI,treated
+2020,Jun,Tajikistan,14455,DMA & CIT,treated
+2020,Jun,Uzbekistan,186353,DMA & CIT & LMI,treated
+2021,Jun,Afghanistan,78383,CIT,controlled
+2021,Jun,Armenia,900,DMA & CIT & LMI,treated
+2021,Jun,Azerbaijan,14354,CIT,treated
+2021,Jun,Georgia,65860,DMA,controlled
+2021,Jun,Kazakhstan,548400,DMA & CIT & LMI,treated
+2021,Jun,Kyrgyzstan,28600,DMA & CIT,controlled
+2021,Jun,Turkmenistan,43273,DMA & LMI,controlled
+2021,Jun,Uzbekistan,478070,DMA & CIT & LMI,controlled
+2017,May,Afghanistan,97706,DMA,
+2017,May,Azerbaijan,16200,DMA,controlled
+2017,May,Kazakhstan,599900,DMA & CIT & LMI,treated
+2017,May,Kyrgyzstan,28715,DMA & CIT,controlled
+2017,May,Russia,232900,DMA & CIT & LMI,treated
+2017,May,Tajikistan,49453,DMA & CIT,treated
+2017,May,Uzbekistan,235000,DMA & CIT & LMI,controlled
+2015,Jul,Afghanistan,117,DMA & LMI,treated
+2015,Jul,Azerbaijan,8382,CIT,controlled
+2015,Jul,Georgia,13502,DMA,controlled
+2015,Jul,Kazakhstan,829860,DMA & CIT & LMI,controlled
+2015,Jul,Kyrgyzstan,1690,DMA & CIT,controlled
+2015,Jul,Russia,264180,DMA & CIT & LMI,controlled
+2015,Jul,Tajikistan,3840,CIT & DMA,controlled
+2015,Jul,Uzbekistan,19207,LMI & CIT & DMA,controlled
+2016,Apr,Kazakhstan,53700,DMA & CIT & LMI,treated
+2016,Apr,Kyrgyzstan,16667,DMA,controlled
+2016,Apr,Russia,2010,DMA,treated
+2016,Apr,Tajikistan,24251,DMA & CIT,treated
+2016,Apr,Turkmenistan,26124,DMA,treated
+2016,Apr,Uzbekistan,59000,DMA & CIT & LMI,controlled
+2014,Mar,Afghanistan,500,DMA,controlled
+2017,Apr,Kazakhstan,153630,DMA & CIT & LMI,treated
+2017,Apr,Kyrgyzstan,19800,DMA,treated
+2017,Apr,Russia,500,DMA,treated
+2017,Apr,Tajikistan,23193,DMA,controlled
+2017,Apr,Turkmenistan,26723,DMA,treated
+2014,Jul,Afghanistan,6108,CIT,controlled
+2014,Jul,Armenia,1000,DMA,controlled
+2014,Jul,Azerbaijan,200,CIT,treated
+2014,Jul,Georgia,10140,DMA,controlled
+2014,Jul,Kazakhstan,650000,DMA & CIT & LMI,treated
+2014,Jul,Russia,308200,,treated
+2014,Jul,Tajikistan,4717,CIT,controlled
+2014,Jul,Uzbekistan,14246,CIT & LMI,controlled
+2016,May,Afghanistan,52182,DMA,controlled
+2016,May,Azerbaijan,8630,CIT & DMA,controlled
+2016,May,Georgia,330,DMA,treated
+2016,May,Kazakhstan,147480,DMA & CIT & LMI,treated
+2016,May,Kyrgyzstan,16504,DMA & CIT,treated
+2016,May,Russia,116580,DMA & CIT & LMI,treated
+2016,May,Tajikistan,39357,DMA & CIT,treated
+2016,May,Uzbekistan,147000,DMA & CIT & LMI,treated
+2014,May,Afghanistan,44361,DMA,controlled
+2014,May,Azerbaijan,48800,DMA & CIT,controlled
+2014,May,Georgia,13298,DMA,treated
+2014,May,Kazakhstan,855700,DMA & CIT & LMI,treated
+2014,May,Kyrgyzstan,31595,DMA,treated
+2014,May,Russia,16100,,treated
+2014,May,Tajikistan,45475,DMA & CIT,controlled
+2014,May,Uzbekistan,217000,DMA & CIT & LMI,treated
+2016,Jul,Azerbaijan,16592,DMA,controlled
+2016,Jul,Kazakhstan,325500,DMA & CIT & LMI,controlled
+2016,Jul,Russia,138274,CIT & DMA & LMI,treated
+2015,Apr,Tajikistan,19144,DMA & CIT & LMI,controlled
+2015,Apr,Uzbekistan,45181,DMA & CIT & LMI,treated
+2021,Aug,Afghanistan,0,CIT,controlled
+2021,Aug,Armenia,0,DMA & CIT & LMI,controlled
+2021,Aug,Azerbaijan,1990.5,CIT,treated
+2021,Aug,Georgia,10965,,controlled
+2021,Aug,Kazakhstan,200,DMA & CIT & LMI,controlled
+2021,Aug,Kyrgyzstan,6117,DMA & CIT,controlled
+2021,Aug,Russia,4000,,controlled
+2021,Aug,Tajikistan,1361,DMA & CIT,controlled
+2021,Aug,Turkmenistan,0,,controlled
+2021,Aug,Uzbekistan,0,DMA & CIT & LMI,controlled
+2017,Mar,Turkmenistan,152,DMA,treated
+2016,Mar,Kyrgyzstan,100,DMA,treated
+2016,Mar,Tajikistan,5814,DMA & CIT,controlled
+2016,Mar,Turkmenistan,7569,DMA,treated
+2016,Mar,Uzbekistan,6000,DMA & CIT,treated
+2020,Aug,Afghanistan,0,CIT,treated
+2020,Aug,Armenia,100,LMI & CIT,treated
+2020,Aug,Azerbaijan,704,CIT,treated
+2020,Aug,Georgia,8640,DMA,treated
+2020,Aug,Kazakhstan,0,DMA & CIT & LMI,treated
+2020,Aug,Kyrgyzstan,11000,CIT,treated
+2020,Aug,Russia,10350,CIT & LMI & DMA,treated
+2020,Aug,Tajikistan,0,CIT,treated
+2020,Aug,Turkmenistan,0,DMA,treated
+2020,Aug,Uzbekistan,0,CIT & LMI,treated
+2014,Apr,Afghanistan,52715,DMA,controlled
+2014,Apr,Azerbaijan,30000,DMA,treated
+2014,Apr,Kyrgyzstan,9600,DMA,treated
+2014,Apr,Uzbekistan,43154,DMA & CIT & LMI,treated
+2015,May,Afghanistan,54842,CIT,controlled
+2015,May,Georgia,340,DMA & CIT,treated
+2015,May,Kazakhstan,257700,DMA & CIT & LMI,treated
+2015,May,Kyrgyzstan,49769,DMA & CIT,controlled
+2015,May,Russia,1700,DMA & CIT & LMI,controlled
+2015,May,Tajikistan,63250,DMA & CIT,treated
+2015,May,Uzbekistan,246145,DMA & CIT & LMI,controlled
+2011,May,Azerbaijan,2200,DMA,controlled
+2011,May,Kazakhstan,426770,DMA & CIT & LMI,treated
+2011,May,Kyrgyzstan,29000,DMA & CIT,treated
+2011,May,Russia,34500,DMA & CIT & LMI,controlled
+2011,May,Tajikistan,114276,,
+2011,May,Uzbekistan,320000,,treated
+2013,Jul,Afghanistan,58065,,
+2013,Jul,Armenia,200,,
+2013,Jul,Azerbaijan,13341,,
+2013,Jul,Georgia,12204,,
+2013,Jul,Kazakhstan,3320145,,
+2013,Jul,Kyrgyzstan,18402,,
+2013,Jul,Russia,959700,,
+2013,Jul,Tajikistan,18595,,
+2013,Jul,Uzbekistan,185000,DMA & CIT & LMI,controlled
+2010,Apr,Georgia,5,,controlled
+2010,Apr,Kazakhstan,54600,CIT & DMA & LMI,treated
+2010,Apr,Tajikistan,36000,DMA & CIT,controlled
+2010,Apr,Uzbekistan,277000,DMA & LMI,controlled
+2018,Aug,Kyrgyzstan,2570,CIT & DMA,treated
+2018,Aug,Russia,25190,CIT & DMA,treated
+2019,Aug,Russia,20280,DMA & CIT & LMI,treated
+2011,Apr,Kazakhstan,49200,DMA & CIT,treated
+2011,Apr,Kyrgyzstan,29000,DMA,controlled
+2011,Apr,Tajikistan,81770,DMA & CIT,controlled
+2011,Apr,Uzbekistan,320000,DMA,treated
+2012,Jul,Armenia,60,CIT,controlled
+2012,Jul,Georgia,100,CIT,controlled
+2012,Jul,Kyrgyzstan,9874,CIT & DMA,treated
+2012,Jul,Russia,1615720,,treated
+2012,Jul,Tajikistan,876,CIT,treated
+2012,Jul,Uzbekistan,1682,,controlled
+2010,May,Azerbaijan,1320,DMA,treated
+2010,May,Georgia,14500,DMA & CIT,treated
+2010,May,Kazakhstan,334620,DMA & CIT & LMI,controlled
+2010,May,Kyrgyzstan,34334,DMA & CIT,treated
+2010,May,Tajikistan,13000,DMA & CIT,treated
+2010,May,Turkmenistan,103500,DMA & CIT & LMI,controlled
+2010,May,Uzbekistan,61900,DMA & CIT & LMI,treated
+2012,May,Afghanistan,60120,DMA,controlled
+2012,May,Azerbaijan,40000,DMA & CIT,treated
+2012,May,Georgia,2912,DMA,treated
+2012,May,Kyrgyzstan,9220,DMA & CIT,treated
+2012,May,Russia,428400,,treated
+2012,May,Tajikistan,39404,DMA & CIT,treated
+2012,May,Uzbekistan,136000,DMA & CIT & LMI,treated
+2010,Jul,Georgia,3000,DMA & CIT,controlled
+2010,Jul,Kyrgyzstan,20482,,treated
+2010,Jul,Tajikistan,2352,DMA & CIT,controlled
+2010,Jul,Turkmenistan,85250,DMA & CIT & LMI,controlled
+2013,Apr,Russia,600,,
+2010,Mar,Tajikistan,2860,DMA,controlled
+2010,Mar,Turkmenistan,40000,DMA,treated
+2010,Mar,Uzbekistan,10000,DMA,treated
+2012,Apr,Afghanistan,80510,DMA,controlled
+2012,Apr,Tajikistan,11007,DMA & CIT,controlled
+2012,Apr,Uzbekistan,36000,DMA & CIT & LMI,treated
+2011,Jul,Afghanistan,240028,CIT,controlled
+2011,Jul,Armenia,1800,,
+2011,Jul,Kyrgyzstan,61436,DMA,controlled
+2011,Jul,Russia,1139600,DMA & CIT & LMI,controlled
+2011,Jul,Tajikistan,137518,DMA & CIT & LMI,controlled
+2011,Jul,Uzbekistan,448000,DMA & CIT & LMI,treated
